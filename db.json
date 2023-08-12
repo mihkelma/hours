@@ -4,6 +4,16 @@
       "id": 1,
       "name": "ADM-1123",
       "description": "Something"
+    },
+    {
+      "id": 2,
+      "name": "AMD-111211",
+      "description": "No problemo"
+    },
+    {
+      "id": 3,
+      "name": "JORA-3441111",
+      "description": "Description of the item"
     }
   ],
   "hours": [
